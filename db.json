@@ -1,17 +1,9 @@
 {
   "shayari": [
     {
-      "id": 1,
-      "Category": "Romantic Shayari",
-      "data": [
-        {
-        "id": 1,
-        "content": "Meri Chahat Dekhni Hai To Mere Dil Par Apna Dil Rakhkar Dekh Teri Dhadkan Naa Bhadjaye To Meri Mohabbat Thukra Dena",
-      },
-      {
-        "id": 2,
-        "content": "GalatFehmi Ki Gunjaish Nahi Sachchi Mohabbat Mein Jahan Kirdaar Halka Ho Kahani Doob Jati Hai",
-      },
-      ]
+      "id":1,
+      "Category": "Love Shayari",
+      "data":[]
     }
+  ]
 }
