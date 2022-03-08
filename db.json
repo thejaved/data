@@ -1,14 +1,520 @@
 {
-  "shayari": [
+  "Shayaris": [
     {
-      "id":1,
-      "Category": "Love Shayari",
-      "data":[]
+      "id": 1,
+      "Category": "Romantic Shayari",
+      "data": [
+        {
+          "id": 1,
+          "content": "Meri Chahat Dekhni Hai To Mere Dil Par Apna Dil Rakhkar Dekh Teri Dhadkan Naa Bhadjaye To Meri Mohabbat Thukra Dena"
+        },
+        {
+          "id": 2,
+          "content": "GalatFehmi Ki Gunjaish Nahi Sachchi Mohabbat Mein Jahan Kirdaar Halka Ho Kahani Doob Jati Hai"
+        },
+        {
+          "id": 3,
+          "content": "Hone Do Mukhatib Mujhe Aaj In Honto Se Abbas Baat Na To Ye Samjh Rahe Hai Par Guftagu Jari Hai"
+        },
+        {
+          "id": 4,
+          "content": "Udasiyan Ishq Ki Pehchan Hai Muskura Diye To Ishq Bura Maan Jayega"
+        },
+        {
+          "id": 5,
+          "content": "Kuch Is Adaa Se Haal Sunana Hamare Dil Wo Khud Hi Keh De Kidi Bhul Jana Buri Baat Hai"
+        },
+        {
+          "id": 6,
+          "content": "Mana Ki Usse Bichadkar Hum Umr Bhar Rote Rhe Par Mere Mar Jane Ke Baad Umr Bhar Roaega Wo"
+        },
+        {
+          "id": 7,
+          "content": "Dil Me Tumhari Apni Kabhi Chor Jayenge Aankho Me Intzaar Ki Lakeer Chor Jayenge"
+        },
+        {
+          "id": 8,
+          "content": "Kisi Masoom Lamhe Main Kisi Masoom Chehre Se Mohabbat Ki Nahi Jati Mohabbat Ho Jati Hai"
+        },
+        {
+          "id": 9,
+          "content": "Kareeb Aao To Shayad Hame Samjh Loge Ye Duriya To Kewal Fasle Bdhati Hai"
+        },
+        {
+          "id": 10,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 11,
+          "content": "Aap Jab Tak Rahungi Aankhon Mein Najara Bankar Roj Aayenge Meri Duniya Mein Ujala Bankar"
+        },
+        {
+          "id": 12,
+          "content": "Usne Jab Se Bewafai Ki Hai Mai Pyar Ki Raah Me Chal Naa Ska Usne To Kisi Aur Ka Haath Tham Liyabas Fir Kabhi Smbhal Nhi Saka"
+        },
+        {
+          "id": 13,
+          "content": "Ek Hi Khwab Dekha Hai Kai Baar Maine Teri Shadi Me Uljhi Hai Chahiye Mere Ghar Ki"
+        },
+        {
+          "id": 14,
+          "content": "Tumhe Meri Mohabbat Ki Kasam Such Batana Gale Main Daal Kar Bahen Kisse Sikhaya Hai"
+        },
+        {
+          "id": 15,
+          "content": "Nhi Pta Ki Wo Kabhi Meri Thi Bhi Ya Nhi Mujhe Ye Pta Hai Bas Ki Mai To Tha Umr Bas Usi Ka Rha"
+        },
+        {
+          "id": 16,
+          "content": "Tumne Dekha Kabhi Chand Se Pani Girte Hue Maine Dekha Ye Manzar Tu Me Chehra Dhote Hue"
+        },
+        {
+          "id": 17,
+          "content": "Thukra De Koi Cahat Ko Tu Has Ke Seh Lena Piyar Ki Tabiyat Main Zabar Jasti Nahi Hoti"
+        },
+        {
+          "id": 18,
+          "content": "Tera Pata Nahi Par Mera Dil Kabhi Taiyar Nahi Hoga Mujhe Tere Alawa Kabi Kisi Aur Se Pyaar Nhi Hoga"
+        },
+        {
+          "id": 19,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 20,
+          "content": "Dil Mein Aahat Si Hui Rooh Mein Dastak Goonji Kis Ki Khushboo Yeh Mujhe Mere SirHane Aayi"
+        }
+      ]
     },
     {
-       "id":2,
-      "Category": "Sad Shayari"
-      "data":[]
+      "id": 2,
+      "Category": "Sad Shayari",
+      "data": [
+        {
+          "id": 1,
+          "content": "Meri Chahat Dekhni Hai To Mere Dil Par Apna Dil Rakhkar Dekh Teri Dhadkan Naa Bhadjaye To Meri Mohabbat Thukra Dena"
+        },
+        {
+          "id": 2,
+          "content": "GalatFehmi Ki Gunjaish Nahi Sachchi Mohabbat Mein Jahan Kirdaar Halka Ho Kahani Doob Jati Hai"
+        },
+        {
+          "id": 3,
+          "content": "Hone Do Mukhatib Mujhe Aaj In Honto Se Abbas Baat Na To Ye Samjh Rahe Hai Par Guftagu Jari Hai"
+        },
+        {
+          "id": 4,
+          "content": "Udasiyan Ishq Ki Pehchan Hai Muskura Diye To Ishq Bura Maan Jayega"
+        },
+        {
+          "id": 5,
+          "content": "Kuch Is Adaa Se Haal Sunana Hamare Dil Wo Khud Hi Keh De Kidi Bhul Jana Buri Baat Hai"
+        },
+        {
+          "id": 6,
+          "content": "Mana Ki Usse Bichadkar Hum Umr Bhar Rote Rhe Par Mere Mar Jane Ke Baad Umr Bhar Roaega Wo"
+        },
+        {
+          "id": 7,
+          "content": "Dil Me Tumhari Apni Kabhi Chor Jayenge Aankho Me Intzaar Ki Lakeer Chor Jayenge"
+        },
+        {
+          "id": 8,
+          "content": "Kisi Masoom Lamhe Main Kisi Masoom Chehre Se Mohabbat Ki Nahi Jati Mohabbat Ho Jati Hai"
+        },
+        {
+          "id": 9,
+          "content": "Kareeb Aao To Shayad Hame Samjh Loge Ye Duriya To Kewal Fasle Bdhati Hai"
+        },
+        {
+          "id": 10,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 11,
+          "content": "Aap Jab Tak Rahungi Aankhon Mein Najara Bankar Roj Aayenge Meri Duniya Mein Ujala Bankar"
+        },
+        {
+          "id": 12,
+          "content": "Usne Jab Se Bewafai Ki Hai Mai Pyar Ki Raah Me Chal Naa Ska Usne To Kisi Aur Ka Haath Tham Liyabas Fir Kabhi Smbhal Nhi Saka"
+        },
+        {
+          "id": 13,
+          "content": "Ek Hi Khwab Dekha Hai Kai Baar Maine Teri Shadi Me Uljhi Hai Chahiye Mere Ghar Ki"
+        },
+        {
+          "id": 14,
+          "content": "Tumhe Meri Mohabbat Ki Kasam Such Batana Gale Main Daal Kar Bahen Kisse Sikhaya Hai"
+        },
+        {
+          "id": 15,
+          "content": "Nhi Pta Ki Wo Kabhi Meri Thi Bhi Ya Nhi Mujhe Ye Pta Hai Bas Ki Mai To Tha Umr Bas Usi Ka Rha"
+        },
+        {
+          "id": 16,
+          "content": "Tumne Dekha Kabhi Chand Se Pani Girte Hue Maine Dekha Ye Manzar Tu Me Chehra Dhote Hue"
+        },
+        {
+          "id": 17,
+          "content": "Thukra De Koi Cahat Ko Tu Has Ke Seh Lena Piyar Ki Tabiyat Main Zabar Jasti Nahi Hoti"
+        },
+        {
+          "id": 18,
+          "content": "Tera Pata Nahi Par Mera Dil Kabhi Taiyar Nahi Hoga Mujhe Tere Alawa Kabi Kisi Aur Se Pyaar Nhi Hoga"
+        },
+        {
+          "id": 19,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 20,
+          "content": "Dil Mein Aahat Si Hui Rooh Mein Dastak Goonji Kis Ki Khushboo Yeh Mujhe Mere SirHane Aayi"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Category": "Sad Shayari",
+      "data": [
+        {
+          "id": 1,
+          "content": "Meri Chahat Dekhni Hai To Mere Dil Par Apna Dil Rakhkar Dekh Teri Dhadkan Naa Bhadjaye To Meri Mohabbat Thukra Dena"
+        },
+        {
+          "id": 2,
+          "content": "GalatFehmi Ki Gunjaish Nahi Sachchi Mohabbat Mein Jahan Kirdaar Halka Ho Kahani Doob Jati Hai"
+        },
+        {
+          "id": 3,
+          "content": "Hone Do Mukhatib Mujhe Aaj In Honto Se Abbas Baat Na To Ye Samjh Rahe Hai Par Guftagu Jari Hai"
+        },
+        {
+          "id": 4,
+          "content": "Udasiyan Ishq Ki Pehchan Hai Muskura Diye To Ishq Bura Maan Jayega"
+        },
+        {
+          "id": 5,
+          "content": "Kuch Is Adaa Se Haal Sunana Hamare Dil Wo Khud Hi Keh De Kidi Bhul Jana Buri Baat Hai"
+        },
+        {
+          "id": 6,
+          "content": "Mana Ki Usse Bichadkar Hum Umr Bhar Rote Rhe Par Mere Mar Jane Ke Baad Umr Bhar Roaega Wo"
+        },
+        {
+          "id": 7,
+          "content": "Dil Me Tumhari Apni Kabhi Chor Jayenge Aankho Me Intzaar Ki Lakeer Chor Jayenge"
+        },
+        {
+          "id": 8,
+          "content": "Kisi Masoom Lamhe Main Kisi Masoom Chehre Se Mohabbat Ki Nahi Jati Mohabbat Ho Jati Hai"
+        },
+        {
+          "id": 9,
+          "content": "Kareeb Aao To Shayad Hame Samjh Loge Ye Duriya To Kewal Fasle Bdhati Hai"
+        },
+        {
+          "id": 10,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 11,
+          "content": "Aap Jab Tak Rahungi Aankhon Mein Najara Bankar Roj Aayenge Meri Duniya Mein Ujala Bankar"
+        },
+        {
+          "id": 12,
+          "content": "Usne Jab Se Bewafai Ki Hai Mai Pyar Ki Raah Me Chal Naa Ska Usne To Kisi Aur Ka Haath Tham Liyabas Fir Kabhi Smbhal Nhi Saka"
+        },
+        {
+          "id": 13,
+          "content": "Ek Hi Khwab Dekha Hai Kai Baar Maine Teri Shadi Me Uljhi Hai Chahiye Mere Ghar Ki"
+        },
+        {
+          "id": 14,
+          "content": "Tumhe Meri Mohabbat Ki Kasam Such Batana Gale Main Daal Kar Bahen Kisse Sikhaya Hai"
+        },
+        {
+          "id": 15,
+          "content": "Nhi Pta Ki Wo Kabhi Meri Thi Bhi Ya Nhi Mujhe Ye Pta Hai Bas Ki Mai To Tha Umr Bas Usi Ka Rha"
+        },
+        {
+          "id": 16,
+          "content": "Tumne Dekha Kabhi Chand Se Pani Girte Hue Maine Dekha Ye Manzar Tu Me Chehra Dhote Hue"
+        },
+        {
+          "id": 17,
+          "content": "Thukra De Koi Cahat Ko Tu Has Ke Seh Lena Piyar Ki Tabiyat Main Zabar Jasti Nahi Hoti"
+        },
+        {
+          "id": 18,
+          "content": "Tera Pata Nahi Par Mera Dil Kabhi Taiyar Nahi Hoga Mujhe Tere Alawa Kabi Kisi Aur Se Pyaar Nhi Hoga"
+        },
+        {
+          "id": 19,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 20,
+          "content": "Dil Mein Aahat Si Hui Rooh Mein Dastak Goonji Kis Ki Khushboo Yeh Mujhe Mere SirHane Aayi"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "Category": "Sad Shayari",
+      "data": [
+        {
+          "id": 1,
+          "content": "Meri Chahat Dekhni Hai To Mere Dil Par Apna Dil Rakhkar Dekh Teri Dhadkan Naa Bhadjaye To Meri Mohabbat Thukra Dena"
+        },
+        {
+          "id": 2,
+          "content": "GalatFehmi Ki Gunjaish Nahi Sachchi Mohabbat Mein Jahan Kirdaar Halka Ho Kahani Doob Jati Hai"
+        },
+        {
+          "id": 3,
+          "content": "Hone Do Mukhatib Mujhe Aaj In Honto Se Abbas Baat Na To Ye Samjh Rahe Hai Par Guftagu Jari Hai"
+        },
+        {
+          "id": 4,
+          "content": "Udasiyan Ishq Ki Pehchan Hai Muskura Diye To Ishq Bura Maan Jayega"
+        },
+        {
+          "id": 5,
+          "content": "Kuch Is Adaa Se Haal Sunana Hamare Dil Wo Khud Hi Keh De Kidi Bhul Jana Buri Baat Hai"
+        },
+        {
+          "id": 6,
+          "content": "Mana Ki Usse Bichadkar Hum Umr Bhar Rote Rhe Par Mere Mar Jane Ke Baad Umr Bhar Roaega Wo"
+        },
+        {
+          "id": 7,
+          "content": "Dil Me Tumhari Apni Kabhi Chor Jayenge Aankho Me Intzaar Ki Lakeer Chor Jayenge"
+        },
+        {
+          "id": 8,
+          "content": "Kisi Masoom Lamhe Main Kisi Masoom Chehre Se Mohabbat Ki Nahi Jati Mohabbat Ho Jati Hai"
+        },
+        {
+          "id": 9,
+          "content": "Kareeb Aao To Shayad Hame Samjh Loge Ye Duriya To Kewal Fasle Bdhati Hai"
+        },
+        {
+          "id": 10,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 11,
+          "content": "Aap Jab Tak Rahungi Aankhon Mein Najara Bankar Roj Aayenge Meri Duniya Mein Ujala Bankar"
+        },
+        {
+          "id": 12,
+          "content": "Usne Jab Se Bewafai Ki Hai Mai Pyar Ki Raah Me Chal Naa Ska Usne To Kisi Aur Ka Haath Tham Liyabas Fir Kabhi Smbhal Nhi Saka"
+        },
+        {
+          "id": 13,
+          "content": "Ek Hi Khwab Dekha Hai Kai Baar Maine Teri Shadi Me Uljhi Hai Chahiye Mere Ghar Ki"
+        },
+        {
+          "id": 14,
+          "content": "Tumhe Meri Mohabbat Ki Kasam Such Batana Gale Main Daal Kar Bahen Kisse Sikhaya Hai"
+        },
+        {
+          "id": 15,
+          "content": "Nhi Pta Ki Wo Kabhi Meri Thi Bhi Ya Nhi Mujhe Ye Pta Hai Bas Ki Mai To Tha Umr Bas Usi Ka Rha"
+        },
+        {
+          "id": 16,
+          "content": "Tumne Dekha Kabhi Chand Se Pani Girte Hue Maine Dekha Ye Manzar Tu Me Chehra Dhote Hue"
+        },
+        {
+          "id": 17,
+          "content": "Thukra De Koi Cahat Ko Tu Has Ke Seh Lena Piyar Ki Tabiyat Main Zabar Jasti Nahi Hoti"
+        },
+        {
+          "id": 18,
+          "content": "Tera Pata Nahi Par Mera Dil Kabhi Taiyar Nahi Hoga Mujhe Tere Alawa Kabi Kisi Aur Se Pyaar Nhi Hoga"
+        },
+        {
+          "id": 19,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 20,
+          "content": "Dil Mein Aahat Si Hui Rooh Mein Dastak Goonji Kis Ki Khushboo Yeh Mujhe Mere SirHane Aayi"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "Category": "Sad Shayari",
+      "data": [
+        {
+          "id": 1,
+          "content": "Meri Chahat Dekhni Hai To Mere Dil Par Apna Dil Rakhkar Dekh Teri Dhadkan Naa Bhadjaye To Meri Mohabbat Thukra Dena"
+        },
+        {
+          "id": 2,
+          "content": "GalatFehmi Ki Gunjaish Nahi Sachchi Mohabbat Mein Jahan Kirdaar Halka Ho Kahani Doob Jati Hai"
+        },
+        {
+          "id": 3,
+          "content": "Hone Do Mukhatib Mujhe Aaj In Honto Se Abbas Baat Na To Ye Samjh Rahe Hai Par Guftagu Jari Hai"
+        },
+        {
+          "id": 4,
+          "content": "Udasiyan Ishq Ki Pehchan Hai Muskura Diye To Ishq Bura Maan Jayega"
+        },
+        {
+          "id": 5,
+          "content": "Kuch Is Adaa Se Haal Sunana Hamare Dil Wo Khud Hi Keh De Kidi Bhul Jana Buri Baat Hai"
+        },
+        {
+          "id": 6,
+          "content": "Mana Ki Usse Bichadkar Hum Umr Bhar Rote Rhe Par Mere Mar Jane Ke Baad Umr Bhar Roaega Wo"
+        },
+        {
+          "id": 7,
+          "content": "Dil Me Tumhari Apni Kabhi Chor Jayenge Aankho Me Intzaar Ki Lakeer Chor Jayenge"
+        },
+        {
+          "id": 8,
+          "content": "Kisi Masoom Lamhe Main Kisi Masoom Chehre Se Mohabbat Ki Nahi Jati Mohabbat Ho Jati Hai"
+        },
+        {
+          "id": 9,
+          "content": "Kareeb Aao To Shayad Hame Samjh Loge Ye Duriya To Kewal Fasle Bdhati Hai"
+        },
+        {
+          "id": 10,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 11,
+          "content": "Aap Jab Tak Rahungi Aankhon Mein Najara Bankar Roj Aayenge Meri Duniya Mein Ujala Bankar"
+        },
+        {
+          "id": 12,
+          "content": "Usne Jab Se Bewafai Ki Hai Mai Pyar Ki Raah Me Chal Naa Ska Usne To Kisi Aur Ka Haath Tham Liyabas Fir Kabhi Smbhal Nhi Saka"
+        },
+        {
+          "id": 13,
+          "content": "Ek Hi Khwab Dekha Hai Kai Baar Maine Teri Shadi Me Uljhi Hai Chahiye Mere Ghar Ki"
+        },
+        {
+          "id": 14,
+          "content": "Tumhe Meri Mohabbat Ki Kasam Such Batana Gale Main Daal Kar Bahen Kisse Sikhaya Hai"
+        },
+        {
+          "id": 15,
+          "content": "Nhi Pta Ki Wo Kabhi Meri Thi Bhi Ya Nhi Mujhe Ye Pta Hai Bas Ki Mai To Tha Umr Bas Usi Ka Rha"
+        },
+        {
+          "id": 16,
+          "content": "Tumne Dekha Kabhi Chand Se Pani Girte Hue Maine Dekha Ye Manzar Tu Me Chehra Dhote Hue"
+        },
+        {
+          "id": 17,
+          "content": "Thukra De Koi Cahat Ko Tu Has Ke Seh Lena Piyar Ki Tabiyat Main Zabar Jasti Nahi Hoti"
+        },
+        {
+          "id": 18,
+          "content": "Tera Pata Nahi Par Mera Dil Kabhi Taiyar Nahi Hoga Mujhe Tere Alawa Kabi Kisi Aur Se Pyaar Nhi Hoga"
+        },
+        {
+          "id": 19,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 20,
+          "content": "Dil Mein Aahat Si Hui Rooh Mein Dastak Goonji Kis Ki Khushboo Yeh Mujhe Mere SirHane Aayi"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "Category": "Sad Shayari",
+      "data": [
+        {
+          "id": 1,
+          "content": "Meri Chahat Dekhni Hai To Mere Dil Par Apna Dil Rakhkar Dekh Teri Dhadkan Naa Bhadjaye To Meri Mohabbat Thukra Dena"
+        },
+        {
+          "id": 2,
+          "content": "GalatFehmi Ki Gunjaish Nahi Sachchi Mohabbat Mein Jahan Kirdaar Halka Ho Kahani Doob Jati Hai"
+        },
+        {
+          "id": 3,
+          "content": "Hone Do Mukhatib Mujhe Aaj In Honto Se Abbas Baat Na To Ye Samjh Rahe Hai Par Guftagu Jari Hai"
+        },
+        {
+          "id": 4,
+          "content": "Udasiyan Ishq Ki Pehchan Hai Muskura Diye To Ishq Bura Maan Jayega"
+        },
+        {
+          "id": 5,
+          "content": "Kuch Is Adaa Se Haal Sunana Hamare Dil Wo Khud Hi Keh De Kidi Bhul Jana Buri Baat Hai"
+        },
+        {
+          "id": 6,
+          "content": "Mana Ki Usse Bichadkar Hum Umr Bhar Rote Rhe Par Mere Mar Jane Ke Baad Umr Bhar Roaega Wo"
+        },
+        {
+          "id": 7,
+          "content": "Dil Me Tumhari Apni Kabhi Chor Jayenge Aankho Me Intzaar Ki Lakeer Chor Jayenge"
+        },
+        {
+          "id": 8,
+          "content": "Kisi Masoom Lamhe Main Kisi Masoom Chehre Se Mohabbat Ki Nahi Jati Mohabbat Ho Jati Hai"
+        },
+        {
+          "id": 9,
+          "content": "Kareeb Aao To Shayad Hame Samjh Loge Ye Duriya To Kewal Fasle Bdhati Hai"
+        },
+        {
+          "id": 10,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 11,
+          "content": "Aap Jab Tak Rahungi Aankhon Mein Najara Bankar Roj Aayenge Meri Duniya Mein Ujala Bankar"
+        },
+        {
+          "id": 12,
+          "content": "Usne Jab Se Bewafai Ki Hai Mai Pyar Ki Raah Me Chal Naa Ska Usne To Kisi Aur Ka Haath Tham Liyabas Fir Kabhi Smbhal Nhi Saka"
+        },
+        {
+          "id": 13,
+          "content": "Ek Hi Khwab Dekha Hai Kai Baar Maine Teri Shadi Me Uljhi Hai Chahiye Mere Ghar Ki"
+        },
+        {
+          "id": 14,
+          "content": "Tumhe Meri Mohabbat Ki Kasam Such Batana Gale Main Daal Kar Bahen Kisse Sikhaya Hai"
+        },
+        {
+          "id": 15,
+          "content": "Nhi Pta Ki Wo Kabhi Meri Thi Bhi Ya Nhi Mujhe Ye Pta Hai Bas Ki Mai To Tha Umr Bas Usi Ka Rha"
+        },
+        {
+          "id": 16,
+          "content": "Tumne Dekha Kabhi Chand Se Pani Girte Hue Maine Dekha Ye Manzar Tu Me Chehra Dhote Hue"
+        },
+        {
+          "id": 17,
+          "content": "Thukra De Koi Cahat Ko Tu Has Ke Seh Lena Piyar Ki Tabiyat Main Zabar Jasti Nahi Hoti"
+        },
+        {
+          "id": 18,
+          "content": "Tera Pata Nahi Par Mera Dil Kabhi Taiyar Nahi Hoga Mujhe Tere Alawa Kabi Kisi Aur Se Pyaar Nhi Hoga"
+        },
+        {
+          "id": 19,
+          "content": "Tere Ishq Me Is Tarah Mai Neelam Ho Jao Aakhri Ho Meri Boli Aur Main Tere Naam Ho Jau"
+        },
+        {
+          "id": 20,
+          "content": "Dil Mein Aahat Si Hui Rooh Mein Dastak Goonji Kis Ki Khushboo Yeh Mujhe Mere SirHane Aayi"
+        }
+      ]
     }
   ]
 }
