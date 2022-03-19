@@ -3,6 +3,7 @@
     {
       "id": 1,
       "Category": "प्यार भरी शायरी",
+      "image": "https://cdn.pixabay.com/photo/2018/02/12/10/45/heart-3147976_960_720.jpg",
       "data": [
         {
           "id": 1,
@@ -113,6 +114,7 @@
     {
       "id": 2,
       "Category": "दर्द भरी शायरी",
+      "image": "https://cdn.pixabay.com/photo/2018/05/22/14/00/girl-3421489_960_720.jpg",
       "data": [
         {
           "id": 1,
@@ -239,6 +241,7 @@
     {
       "id": 3,
       "Category": "लवली शायरी",
+      "image": "https://cdn.pixabay.com/photo/2016/11/02/00/37/bouquet-1790142_960_720.jpg",
       "data": [
         {
           "id": 1,
@@ -349,6 +352,7 @@
     {
       "id": 4,
       "Category": "दोस्तों के लिए शायरी",
+      "image": "https://cdn.pixabay.com/photo/2015/06/22/08/37/children-817365_960_720.jpg",
       "data": [
         {
           "id": 1,
