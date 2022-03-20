@@ -2,7 +2,7 @@
   "Shayaris": [
     {
       "id": 1,
-      "Category": "Love Shayari",
+      "Category": "Love Shayari's",
       "image": "https://cdn.pixabay.com/photo/2018/02/12/10/45/heart-3147976_960_720.jpg",
       "data": [
         {
@@ -109,7 +109,7 @@
     },
     {
       "id": 2,
-      "Category": "Sad Shayari",
+      "Category": "Sad Shayari's",
       "image": "https://cdn.pixabay.com/photo/2018/05/22/14/00/girl-3421489_960_720.jpg",
       "data": [
         {
@@ -216,7 +216,7 @@
     },
     {
       "id": 3,
-      "Category": "Romantic Shayari",
+      "Category": "Romantic Shayari's",
       "image": "https://cdn.pixabay.com/photo/2016/11/02/00/37/bouquet-1790142_960_720.jpg",
       "data": [
         {
@@ -327,7 +327,7 @@
     },
     {
       "id": 4,
-      "Category": "Friendship Shayari",
+      "Category": "Friendship Shayari's",
       "image": "https://cdn.pixabay.com/photo/2015/06/22/08/37/children-817365_960_720.jpg",
       "data": [
         {
@@ -414,7 +414,7 @@
     },
     {
       "id": 5,
-      "Category": "Dosti Shayari",
+      "Category": "Dosti Shayari's",
       "image": "https://cdn.pixabay.com/photo/2017/03/19/10/49/friendship-2156174_960_720.jpg",
       "data": [
         {
@@ -461,7 +461,7 @@
     },
     {
       "id": 6,
-      "Category": "Attitude Shayari",
+      "Category": "Attitude Shayari's",
       "image": "https://cdn.pixabay.com/photo/2014/11/21/00/09/man-539993_960_720.jpg",
       "data": [
         {
@@ -568,7 +568,7 @@
     },
     {
       "id": 7,
-      "Category": "Funny Shayari",
+      "Category": "Funny Shayari's",
       "image": "https://cdn.pixabay.com/photo/2015/01/07/20/53/hat-591973_960_720.jpg",
       "data": [
         {
@@ -651,7 +651,7 @@
     },
     {
       "id": 8,
-      "Category": "Life Shayari",
+      "Category": "Life Shayari's",
       "image": "https://cdn.pixabay.com/photo/2016/11/19/11/11/hands-1838658_960_720.jpg",
       "data": [
         {
@@ -734,7 +734,7 @@
     },
     {
       "id": 9,
-      "Category": "Good Morning Shayari",
+      "Category": "Good Morning Shayari's",
       "image": "https://cdn.pixabay.com/photo/2017/06/25/09/03/coffee-2440074_960_720.jpg",
       "data": [
         {
@@ -785,7 +785,7 @@
     },
     {
       "id": 10,
-      "Category": "Good Night Shayari",
+      "Category": "Good Night Shayari's",
       "image": "https://cdn.pixabay.com/photo/2015/11/22/18/07/cat-1056661_960_720.jpg",
       "data": [
         {
